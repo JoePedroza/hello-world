@@ -1,2 +1,4 @@
 # hello-world
-Hello World first repository setup
+Hello,
+
+My name is Joe Pedroza.  This is my first github repository.
